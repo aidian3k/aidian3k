@@ -25,7 +25,7 @@ I am Adrian from Poland, and I am currently studying Computer Science at Warsaw 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidian3k&show_icons=true&locale=en&layout=compact" alt="aidian3k" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aidian3k&show_icons=true&locale=en" alt="aidian3k" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aidian3k&show_icons=true&locale=en" alt="aidian3k" /></p>
 
 
 
