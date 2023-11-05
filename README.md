@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">Algorithms and Software engineering</h3>
+<h3 align="center">Software development</h3>
 
-I am Adrian from Poland, and I am currently studying Computer Science at Warsaw University of Technology. I really enjoy mathematics and its usage in computer science. Additionally, I really enjoy learning languages and take up the challenges. 
+I am Adrian from Poland, and I am currently studying Computer Science at Warsaw University of Technology. I really enjoy mathematics and its usage in computer science. Additionally, I really enjoy learning new programming languages and taking up challenges. 
 
 <p align="left"> <a href="https://twitter.com/aidian3k" target="blank"><img src="https://img.shields.io/twitter/follow/aidian3k?logo=twitter&style=for-the-badge" alt="aidian3k" /></a> </p>
 
-- 🔭 I’m currently working on **projects in Java**
+- 🔭 I’m currently working on **projects in Java, Kotlin**
 
-- 🌱 I’m currently learning **Java, SQL, Spring, Angular**
-
-- 👯 I’m looking to collaborate with **interesting people**
+- 🌱 I’m currently learning **Java, Go, SQL, Spring, Angular, React**
 
 - 📫 How to reach me **adrian.nowosielski1@gmail.com**
 
