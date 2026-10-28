@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Software development</h3>
 
-I am Adrian from Poland, and I am currently studying Computer Science at Warsaw University of Technology. I really enjoy mathematics and its usage in computer science. Additionally, I really enjoy learning new programming languages and taking up challenges. 
+I am Adrian from Poland. I really enjoy mathematics and its usage in computer science. Additionally, I really enjoy learning new programming languages and taking up challenges. 
 
 <p align="left"> <a href="https://twitter.com/aidian3k" target="blank"><img src="https://img.shields.io/twitter/follow/aidian3k?logo=twitter&style=for-the-badge" alt="aidian3k" /></a> </p>
 
